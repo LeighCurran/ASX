@@ -1,0 +1,9 @@
+LICENSE.txt
+setup.cfg
+setup.py
+asx/ASX.py
+asx.egg-info/PKG-INFO
+asx.egg-info/SOURCES.txt
+asx.egg-info/dependency_links.txt
+asx.egg-info/requires.txt
+asx.egg-info/top_level.txt
